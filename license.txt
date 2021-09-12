@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stannern meteorite (NHMW-Min A21)
+* source:	https://sketchfab.com/3d-models/stannern-meteorite-nhmw-min-a21-7cf6387d160248aaaf9079c0933cfa2e
+* author:	Natural History Museum Vienna (https://sketchfab.com/NHMWien)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stannern meteorite (NHMW-Min A21)" (https://sketchfab.com/3d-models/stannern-meteorite-nhmw-min-a21-7cf6387d160248aaaf9079c0933cfa2e) by Natural History Museum Vienna (https://sketchfab.com/NHMWien) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
